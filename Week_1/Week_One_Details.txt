@@ -1,0 +1,5 @@
+Numpy exercices
+
+Data Frame Manipulation with Pandas
+
+Exploration Data Analysis with Python
